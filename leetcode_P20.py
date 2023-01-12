@@ -11,12 +11,15 @@ Every close bracket has a corresponding open bracket of the same type.
 ================================
 Time complexity
 =================================
+O(n)
 =================================
 Space complexity
 =================================
+O(n)
 =================================
 Approach
 =================================
+Stack
 =================================
 """
 class Solution:
