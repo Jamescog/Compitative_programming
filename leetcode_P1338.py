@@ -7,13 +7,16 @@ Return the minimum size of the set so that at least half of the integers of the 
 =============================
 Time complexity
 =============================
+O(n log n)
 =============================
 Space complexity
 =============================
+O(n)
 =============================
 Approach
 =============================
-============================
+Greedy approach
+=============================
 """
 class Solution:
     def minSetSize(self, arr: List[int]) -> int:
